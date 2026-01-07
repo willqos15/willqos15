@@ -45,6 +45,7 @@ Me chamo **William** e sou desenvolvedor Web. Aqui você encontra meus projetos,
 ---
 
 ## Projetos em destaque
+- **Chatbot de Feedbacks** [🔗 Ver Online](https://petfeliz-rho.vercel.app/) 
 - **X-men: Sala de Perigo** – Jogo em React [🔗 Ver Online](https://willqos15.github.io/X-menJogoBETA)  
 - **Achados & Perdidos** – Projeto FullStack [🔗 Ver Online](https://queirozdeveloper.vercel.app/)
 - **Portfólio Web** – Portfólio [🔗 Ver Online](https://queirozdeveloper.vercel.app/)
