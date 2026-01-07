@@ -26,6 +26,7 @@ Me chamo **William** e sou desenvolvedor Web. Aqui você encontra meus projetos,
 - Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-black?style=flat-square&logo=jsonwebtokens)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - Integração:
