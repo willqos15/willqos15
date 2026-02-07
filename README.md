@@ -7,7 +7,7 @@ Me chamo **William** e sou desenvolvedor Web. Aqui você encontra meus projetos,
 ## Sobre mim
 - Ex-professor de robótica educacional  
 - Formado em **Engenharia da Computação**  
-- Freelancer como **desenvolvimento web**  
+- **Desenvolvimento web autônomo**  
 - Buscando oportunidades como desenvolvedor front-end 
 
 ---
