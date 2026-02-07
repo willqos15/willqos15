@@ -7,9 +7,8 @@ Me chamo **William** e sou desenvolvedor Web. Aqui você encontra meus projetos,
 ## Sobre mim
 - Ex-professor de robótica educacional  
 - Formado em **Engenharia da Computação**  
-- Em transição de carreira para **desenvolvimento web**  
-- Buscando meu **primeiro emprego remoto** como dev júnior, estagiário ou trainee  
-- Sempre aberto a aprender novas linguagens, tecnologias, frontend e backend  
+- Freelancer como **desenvolvimento web**  
+- Buscando oportunidades como desenvolvedor front-end 
 
 ---
 
@@ -45,10 +44,12 @@ Me chamo **William** e sou desenvolvedor Web. Aqui você encontra meus projetos,
 ---
 
 ## Projetos em destaque
-- **Chatbot de Feedbacks** [🔗 Ver Online](https://petfeliz-rho.vercel.app/) 
-- **X-men: Sala de Perigo** – Jogo em React [🔗 Ver Online](https://willqos15.github.io/X-menJogoBETA)  
 - **Achados & Perdidos** – Projeto FullStack [🔗 Ver Online](https://queirozdeveloper.vercel.app/)
-- **Portfólio Web** – Portfólio [🔗 Ver Online](https://queirozdeveloper.vercel.app/)
+- **EdTech Palavras** - [🔗 Ver Online](https://github.com/willqos15/EdTechPalavras)
+- **Chatbot de Feedbacks** [🔗 Ver Online](https://petfeliz-rho.vercel.app/)
+- **X-men: Sala de Perigo** – Jogo em React [🔗 Ver Online](https://willqos15.github.io/X-menJogoBETA)  
+
+
 
 ---
 
