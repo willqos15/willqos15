@@ -1,14 +1,6 @@
 # Olá, bem-vindo! 👋
 
-Me chamo **William** e sou desenvolvedor Web. Aqui você encontra meus projetos, estudos e aprendizados.
-
----
-
-## Sobre mim
-- Ex-professor de robótica educacional  
-- Formado em **Engenharia da Computação**  
-- **Desenvolvimento web autônomo**  
-- Buscando oportunidades como desenvolvedor front-end 
+Me chamo **William** tenho formação em Engenharia da Computação com experiência em Desenvolvimento Web, atuando como desenvolvedor autônomo, com vivência em projetos voluntários e como professor de programação e robótica. Foco em código limpo, com abertura para feedback e construção conjunta de soluções.
 
 ---
 
@@ -44,16 +36,13 @@ Me chamo **William** e sou desenvolvedor Web. Aqui você encontra meus projetos,
 ---
 
 ## Projetos em destaque
-- **Achados & Perdidos** – Projeto FullStack [🔗 Ver Online](https://queirozdeveloper.vercel.app/)
-- **EdTech Palavras** - [🔗 Ver Online](https://github.com/willqos15/EdTechPalavras)
+- **Site de adoção de animais** [🔗 Ver repositório](https://github.com/willqos15/Apata-Frontend)
+- **Aplicação Educacional** - [🔗 Ver repositório](https://github.com/willqos15/EdTechPalavras)
 - **Chatbot de Feedbacks** [🔗 Ver Online](https://petfeliz-rho.vercel.app/)
-- **X-men: Sala de Perigo** – Jogo em React [🔗 Ver Online](https://willqos15.github.io/X-menJogoBETA)  
-
-
 
 ---
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/william-queiroz-a36573120/)
 - Email: willqos15@gmail.com
-
+- Telefone: (93) 99187-8598
