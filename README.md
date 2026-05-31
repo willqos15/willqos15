@@ -1,6 +1,7 @@
 # Olá, bem-vindo! 👋
 
-Me chamo **William** tenho formação em Engenharia da Computação com experiência em Desenvolvimento Web, atuando como desenvolvedor autônomo, com vivência em projetos voluntários e como professor de programação e robótica. Foco em código limpo, com abertura para feedback e construção conjunta de soluções.
+Me chamo **William** tenho formação em Engenharia da Computação com experiência em Desenvolvimento Full-Stack, atuando como desenvolvedor web autônomo e com vivência como professor de programação e robótica. Prezo por código limpo, responsividade e boas práticas, com abertura a feedback e aprendizado contínuo.
+
 
 ---
 
