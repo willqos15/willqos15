@@ -1,6 +1,6 @@
 # Olá, bem-vindo! 👋
 
-Me chamo **William** Sou Desenvolvedor Full Stack com foco no desenvolvimento de aplicações web utilizando React e Node.js. Possuo experiência em projetos reais com criação de interfaces responsivas, banco de dados, testes, Git/GitHub, build, deploy, integração com APIs REST e LLMs, além de colaboração em equipe com boas práticas de desenvolvimento.
+Me chamo **William** Sou Desenvolvedor Full Stack com foco no desenvolvimento de aplicações web utilizando React e Node.js. Possuo experiência em projetos reais com criação de interfaces responsivas, banco de dados, testes, GitHub Actions, build, deploy, integração com APIs REST e LLMs, além de colaboração em equipe com boas práticas de desenvolvimento.
 
 
 ---
@@ -19,13 +19,15 @@ Me chamo **William** Sou Desenvolvedor Full Stack com foco no desenvolvimento de
 
 ### Back-end:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-black?style=flat-square&logo=jsonwebtokens)
 ![REST API](https://img.shields.io/badge/REST-API-02569B?style=flat-square)
 
 ### Banco de Dados:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Testes:
@@ -41,6 +43,8 @@ Me chamo **William** Sou Desenvolvedor Full Stack com foco no desenvolvimento de
 ### Ferramentas & Deploy:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -65,10 +69,12 @@ Me chamo **William** Sou Desenvolvedor Full Stack com foco no desenvolvimento de
 
 ## Certificações
 
+- ⚙️ **Integração Contínua com GitHub Actions (CI/CD)** — Udemy (2026)
+- - 🧪 **Testes no React do zero ao avançado: Vitest e Cypress** — Udemy (2026)
+- 📋 **Gestão de Projetos e Metodologias Agile** — Santander Open Academy (2026)
 - 🤖 **IA for Devs** — Full Cycle (2026)
 - 🎨 **UX/UI na Prática** — EBAC (2026)
-- 🧪 **Testes no React do zero ao avançado: Vitest e Cypress** — Udemy (2026)
-- 📋 **Gestão de Projetos e Metodologias Agile** — Santander Open Academy (2026)
+
 
 
 ---
