@@ -70,7 +70,7 @@ Me chamo **William** Sou Desenvolvedor Full Stack com foco no desenvolvimento de
 ## Certificações
 
 - ⚙️ **Integração Contínua com GitHub Actions (CI/CD)** — Udemy (2026)
-- - 🧪 **Testes no React do zero ao avançado: Vitest e Cypress** — Udemy (2026)
+- 🧪 **Testes no React do zero ao avançado: Vitest e Cypress** — Udemy (2026)
 - 📋 **Gestão de Projetos e Metodologias Agile** — Santander Open Academy (2026)
 - 🤖 **IA for Devs** — Full Cycle (2026)
 - 🎨 **UX/UI na Prática** — EBAC (2026)
